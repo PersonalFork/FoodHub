@@ -3,3 +3,9 @@
 ################################################################################
 
 /FoodHub.Web.Main/obj
+/FoodHub.Web.Main/bin
+/.vs
+/FoodHub.UserManagement/obj
+/FoodHub.UserManagement/bin
+/FoodHub.OrderManagement/obj
+/FoodHub.OrderManagement/bin
